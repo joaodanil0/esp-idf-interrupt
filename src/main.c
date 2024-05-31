@@ -65,7 +65,5 @@ void app_main()
                 ESP_LOGI("TEST", "LED LIGADO");
             }
         }
-
-        ESP_LOGI("TEST", "Seguindo");
     }
 }
